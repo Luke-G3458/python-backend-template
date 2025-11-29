@@ -1,0 +1,3 @@
+- [ ] Connect api and db
+- [ ] Test docker (dev.Dockerfile)
+- [ ] Update and test production.Dockerfile
